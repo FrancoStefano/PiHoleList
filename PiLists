@@ -132,6 +132,7 @@ de.ad.lgsmartad.com
 #facebook ads/trackers
 api.facebook.com
 star.fallback.c10r.facebook.com
+graph.facebook.com
 
 
 #tumblr ads and trakers
@@ -145,13 +146,20 @@ us.a.dauup.com
 got.pubnative.net
 assets.tumblr.com
 voodoo-tech.io
-
+mobile.smartadserver.com
+apps.sascdn.com
+mobileconfig.sascdn.com
+api2.branch.io
+appsrv.display.io
+ls.srvcs.tumblr.com
 
 # google tracker and ads
 redirector.googlevideo.com
 manifest.googlevideo.com
 s.ytimg.com
 imasdk.googleapis.com
+googleads.g.doubleclick.net
+firebaselogging-pa.googleapis.com
 
 
 
