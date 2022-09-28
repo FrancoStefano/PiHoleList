@@ -1,3 +1,15 @@
+
+cdn.fbsbx.com
+amplify.outbrain.com
+www.googleadservices.com
+stats.g.doubleclick.net
+cm.g.doubleclick.net
+pro-web-metrics.alias.s24cloud.net
+signal-metrics-collector-beta.s-onetag.com
+static.doubleclick.net
+www.googletagmanager.com
+ocsp.usertrust.com
+crl.usertrust.com
 aka-cdn.adtech.de
 atwola.com
 23.at.atwola.com
@@ -188,6 +200,7 @@ firebaselogging-pa.googleapis.com
 # iPhone Ads/Trackers
 pbjs.e-planning.net
 region1.app-measurement.com
+lcdn-locator.apple.com
 
 
 
