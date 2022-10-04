@@ -212,9 +212,6 @@ www.adtilt.com
 www.tm.ak.prd.aadg.akadns.net
 
 # Latest
-
-_spf.google.com
-_spf.salesforce.com
 aspmx.pardot.com
 stspg-customer.com
 spf.mailjet.com
@@ -240,7 +237,3 @@ ns1.google.com
 ns2.google.com
 ns3.google.com
 ns4.google.com
-ns4.google.com
-ns1.google.com
-ns2.google.com
-ns3.google.com
