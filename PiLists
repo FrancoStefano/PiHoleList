@@ -33,6 +33,7 @@ www.adexchangeclear.com
 
 
 
+
 #[ADS]
 late-anxiety.com
 
@@ -313,6 +314,9 @@ wp-admin.adfarm1.adition.com
 wp.adfarm1.adition.com
 www.adfarm1.adition.com
 zabbix.adfarm1.adition.com
+
+# [Brave]
+anonymous.ads.brave.com
 
 #[sharethrough.com]
 btir.sharethrough.com
@@ -12302,6 +12306,8 @@ www.vinted-pl-gj32d.tambayan.life
 
 # mozilla
 ads.mozilla.org
+incoming.telemetry.mozilla.org
+location.services.mozilla.com
 
 
 # oewabox.at -- 'Austrian Webanalysis Society'
